@@ -23,6 +23,9 @@ Experiências acumuladas que hoje se combinam num perfil analítico-estratégico
 * [LinkedIn](https://www.linkedin.com/in/isabela-analytica)
 
 
+**Background in:** VBA, Java, SQL, Shell Scripts, Delphi, Postgres, MySQL, SQL Server, Fórmula de Lançamento, Comunidade Sobral, Treinamento em monitoramento, inteligência e intervenção em ambientes penitenciários.
+
+
 
 ---
 
