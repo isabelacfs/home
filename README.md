@@ -19,9 +19,8 @@ Experiências acumuladas que hoje se combinam num perfil analítico-estratégico
 
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/isabela-analytica)
-
+* * [LinkedIn](https://www.linkedin.com/in/isabela-analytica)
+* * [Instagram] (http://www.instagram.com/isabela_analytica)
 
 **Background in:** VBA, Java, SQL, Shell Scripts, Delphi, Postgres, MySQL, SQL Server, React Native, Fórmula de Lançamento, Comunidade Sobral, monitoramento de tornozeleiras eletrônicas, inteligência policial, doutrina DPOE/DF, etc.
 
