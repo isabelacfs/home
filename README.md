@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/isabelacfs/home/blob/master/Monochromatic%20Photo%20Yellow%20Typography%20Linkedin%20Banner%20(1).png" >
-</p>
+
 
 # Isabela Costa
 <sub> Ciências de Dados aplicada ao Marketing Digital </sub>
